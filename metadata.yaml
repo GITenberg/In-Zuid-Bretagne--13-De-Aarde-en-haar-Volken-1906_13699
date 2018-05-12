@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5186
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Geffroy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13699#In-Zuid-Bretagne--13-De-Aarde-en-haar-Volken-1906
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2004-10-10'
 gutenberg_type: Text
